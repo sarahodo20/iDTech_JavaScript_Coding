@@ -1,0 +1,1 @@
+objectRanger={name1:"Ranger",age:1, isCute:true,  }
